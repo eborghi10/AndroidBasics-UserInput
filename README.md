@@ -8,6 +8,8 @@
 
  1) Continue with the Just Java app.
 
+ ![Just Java app](Preview.png)
+
  ## Part 3 - Practice Set 2 : 
 
  1) 
