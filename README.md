@@ -6,8 +6,8 @@
 
  ## Part 2 - Make an App Interactive
 
- 1) 
+ 1) Continue with the Just Java app.
 
- ## Part 3 - Practice Set : 
+ ## Part 3 - Practice Set 2 : 
 
  1) 
