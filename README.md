@@ -1,4 +1,4 @@
-# Udacity UD834 | Android Basics: User Input
+# Udacity UD836 | Android Basics: User Input
 
 ## Part 1 - Make an App Interactive
 
