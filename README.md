@@ -8,6 +8,6 @@
 
  1) Continue with the Just Java app.
 
- ## Part 3 - Practice Set 2 : 
+ ## Part 3 - Practice Set 2
 
- 1) 
+ 1) Court Counter: keep track of a basketball game.
